@@ -1,0 +1,1 @@
+Bu projede şimdiye kadar öğrendiğim giriş seviyesi HTML bilgimi kullanarak birkaç sayfadan oluşan oldukça basit bir websitesi tasarlayacağım. Proje sonunda bir özeleştiri ile bu dosyayı güncelleyeceğim.
